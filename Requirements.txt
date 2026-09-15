@@ -1,0 +1,8 @@
+streamlit
+pytesseract
+Pillow
+gTTS
+google-generativeai
+SpeechRecognition
+PyMuPDF
+qrcode
